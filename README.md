@@ -134,7 +134,7 @@ python src/data_filter.py \
 
 Where $sample\_doc\_num$represents the granularity of the filter,$corpus\_file$represents the corpus file of the data set, and $generate\_data\_for\_sptar$represents the folder where sptar data is generated. $dpr\_model$represents the address of the DPR model participating in Dense filtering, and $query\_tobe\_filtered$represents the pseudo query files tobe filtered
 
-# LossNet过滤
+# LossNet Filter
 
 After using a quality filter to ensure the quality of the pseudo query, we then use lossnet to filter the pseudo query's training necessity for colbert, the training part of lossnet is as follows:
 
