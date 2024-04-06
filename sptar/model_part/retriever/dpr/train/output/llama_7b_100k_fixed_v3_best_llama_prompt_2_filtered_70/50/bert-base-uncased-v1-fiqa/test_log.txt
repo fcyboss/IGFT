@@ -1,0 +1,48 @@
+2023-12-18 12:43:45 - Loading Corpus...
+2023-12-18 12:43:46 - Loaded 57638 TEST Documents.
+2023-12-18 12:43:46 - Doc Example: {'text': "I'm not saying I don't like the idea of on-the-job training too, but you can't expect the company to do that. Training workers is not their job - they're building software. Perhaps educational systems in the U.S. (or their students) should worry a little about getting marketable skills in exchange for their massive investment in education, rather than getting out with thousands in student debt and then complaining that they aren't qualified to do anything.", 'title': ''}
+2023-12-18 12:43:46 - Loading Queries...
+2023-12-18 12:43:46 - Loaded 648 TEST Queries.
+2023-12-18 12:43:46 - Query Example: How to deposit a cheque issued to an associate in my business into my business account?
+2023-12-18 12:43:46 - Load pretrained SentenceTransformer: /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa
+2023-12-18 12:43:46 - No sentence-transformers model found with name /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa. Creating a new one with MEAN pooling.
+2023-12-18 12:45:22 - Loading Corpus...
+2023-12-18 12:45:23 - Loaded 57638 TEST Documents.
+2023-12-18 12:45:23 - Doc Example: {'text': "I'm not saying I don't like the idea of on-the-job training too, but you can't expect the company to do that. Training workers is not their job - they're building software. Perhaps educational systems in the U.S. (or their students) should worry a little about getting marketable skills in exchange for their massive investment in education, rather than getting out with thousands in student debt and then complaining that they aren't qualified to do anything.", 'title': ''}
+2023-12-18 12:45:23 - Loading Queries...
+2023-12-18 12:45:23 - Loaded 648 TEST Queries.
+2023-12-18 12:45:23 - Query Example: How to deposit a cheque issued to an associate in my business into my business account?
+2023-12-18 12:45:23 - Load pretrained SentenceTransformer: /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa
+2023-12-18 12:45:23 - No sentence-transformers model found with name /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa. Creating a new one with MEAN pooling.
+2023-12-18 12:46:19 - Loading Corpus...
+2023-12-18 12:46:19 - Loaded 57638 TEST Documents.
+2023-12-18 12:46:19 - Doc Example: {'text': "I'm not saying I don't like the idea of on-the-job training too, but you can't expect the company to do that. Training workers is not their job - they're building software. Perhaps educational systems in the U.S. (or their students) should worry a little about getting marketable skills in exchange for their massive investment in education, rather than getting out with thousands in student debt and then complaining that they aren't qualified to do anything.", 'title': ''}
+2023-12-18 12:46:19 - Loading Queries...
+2023-12-18 12:46:19 - Loaded 648 TEST Queries.
+2023-12-18 12:46:19 - Query Example: How to deposit a cheque issued to an associate in my business into my business account?
+2023-12-18 12:46:19 - Load pretrained SentenceTransformer: /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa
+2023-12-18 12:46:19 - No sentence-transformers model found with name /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa. Creating a new one with MEAN pooling.
+2023-12-18 12:46:49 - Loading Corpus...
+2023-12-18 12:46:49 - Loaded 57638 TEST Documents.
+2023-12-18 12:46:49 - Doc Example: {'text': "I'm not saying I don't like the idea of on-the-job training too, but you can't expect the company to do that. Training workers is not their job - they're building software. Perhaps educational systems in the U.S. (or their students) should worry a little about getting marketable skills in exchange for their massive investment in education, rather than getting out with thousands in student debt and then complaining that they aren't qualified to do anything.", 'title': ''}
+2023-12-18 12:46:49 - Loading Queries...
+2023-12-18 12:46:49 - Loaded 648 TEST Queries.
+2023-12-18 12:46:49 - Query Example: How to deposit a cheque issued to an associate in my business into my business account?
+2023-12-18 12:46:49 - Load pretrained SentenceTransformer: /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa
+2023-12-18 12:46:49 - No sentence-transformers model found with name /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa. Creating a new one with MEAN pooling.
+2023-12-18 12:47:01 - Loading Corpus...
+2023-12-18 12:47:02 - Loaded 57638 TEST Documents.
+2023-12-18 12:47:02 - Doc Example: {'text': "I'm not saying I don't like the idea of on-the-job training too, but you can't expect the company to do that. Training workers is not their job - they're building software. Perhaps educational systems in the U.S. (or their students) should worry a little about getting marketable skills in exchange for their massive investment in education, rather than getting out with thousands in student debt and then complaining that they aren't qualified to do anything.", 'title': ''}
+2023-12-18 12:47:02 - Loading Queries...
+2023-12-18 12:47:02 - Loaded 648 TEST Queries.
+2023-12-18 12:47:02 - Query Example: How to deposit a cheque issued to an associate in my business into my business account?
+2023-12-18 12:47:02 - Load pretrained SentenceTransformer: /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa
+2023-12-18 12:47:02 - No sentence-transformers model found with name /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa. Creating a new one with MEAN pooling.
+2023-12-18 12:57:04 - Loading Corpus...
+2023-12-18 12:57:04 - Loaded 57638 TEST Documents.
+2023-12-18 12:57:04 - Doc Example: {'text': "I'm not saying I don't like the idea of on-the-job training too, but you can't expect the company to do that. Training workers is not their job - they're building software. Perhaps educational systems in the U.S. (or their students) should worry a little about getting marketable skills in exchange for their massive investment in education, rather than getting out with thousands in student debt and then complaining that they aren't qualified to do anything.", 'title': ''}
+2023-12-18 12:57:04 - Loading Queries...
+2023-12-18 12:57:04 - Loaded 648 TEST Queries.
+2023-12-18 12:57:04 - Query Example: How to deposit a cheque issued to an associate in my business into my business account?
+2023-12-18 12:57:04 - Load pretrained SentenceTransformer: /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa
+2023-12-18 12:57:04 - No sentence-transformers model found with name /group/ars-group-tongzhenyu/sptar/zhiyuan/retriever/dpr/train/output/llama_7b_100k_fixed_v3_best_llama_prompt_2_filtered_70/50/bert-base-uncased-v1-fiqa. Creating a new one with MEAN pooling.
